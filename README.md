@@ -17,6 +17,6 @@ If you do not cancel the previous request, the information that it claims will b
 
 moves to detect the bug !! try to put a into input, add b to a (ab), remove b -> add bc (abc) -> remove c and put d (abd), and you get the wrong result in a screen.
 
-to resolve this problem you can use abortController or cancel if you use fetch request.
+you can resolve this problem with many technique like abortController, debounce-input, takeLatest in redux-saga, Observable - RxJS and cancel fetch...
 
 Example -> https://codesandbox.io/s/cancel-previous-axios-request-vtmej
