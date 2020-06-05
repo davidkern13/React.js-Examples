@@ -22,7 +22,11 @@ you can resolve this problem with many technique like abortController, debounce-
 
 [Live Example](https://codesandbox.io/s/cancel-previous-axios-request-vtmej)
 
-## Retain Previous Values Js Hook
+## Retain Previous Values with React.useRef - Js Hook
+
+Whenever we want to save the previous value a good way to do this is with the use React.useRef.
+One of the reasons why it will work is because ```React.useRef``` running after Components finished rendering.
+The value of ```ref.current``` will updated after render from ```useEffect```, ```ref.current``` retains the last value passed to it in a previous renderer.
 
 [Live Example](https://codesandbox.io/s/retain-previous-values-js-hook-mkc0v)
 
