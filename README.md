@@ -30,3 +30,8 @@ The value of ```ref.current``` will updated after render from ```useEffect```, `
 
 [Live Example](https://codesandbox.io/s/retain-previous-values-js-hook-mkc0v)
 
+## Search get value from json data in background using by web worker
+
+[React-Web-Worker](https://codesandbox.io/s/retain-previous-values-js-hook-mkc0v)
+
+
