@@ -36,4 +36,10 @@ The value of ```ref.current``` will updated after render from ```useEffect```, `
 
 [React-Web-Worker](https://codesandbox.io/s/retain-previous-values-js-hook-mkc0v)
 
+## Use react middleware for axios call to post,put,delete,update
+
+Instead of creating a file of server requests, you can create one custom Middleware file and pass through the action that you want to perform on a server call.
+
+[React-Middleware-Axios](https://github.com/davidkern13/react-middleware-axios)
+
 
