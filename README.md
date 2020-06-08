@@ -34,7 +34,7 @@ The value of ```ref.current``` will updated after render from ```useEffect```, `
 
 > A worker is an object created using a constructor (e.g. Worker()) that runs a named JavaScript file — this file contains the code that will run in the worker thread; workers run in another global context that is different from the current window. [source](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 
-[React-Web-Worker](https://codesandbox.io/s/retain-previous-values-js-hook-mkc0v)
+[React-Web-Worker](https://github.com/davidkern13/react-web-worker)
 
 ## Use react custom middleware for axios call to post,put,delete,update
 
