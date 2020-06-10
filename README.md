@@ -30,7 +30,7 @@ The value of ```ref.current``` will updated after render from ```useEffect```, `
 
 [Live Example](https://codesandbox.io/s/retain-previous-values-js-hook-mkc0v)
 
-## Search get value from json data in background using by web worker
+## Search get value from json data in background using web worker
 
 > A worker is an object created using a constructor (e.g. Worker()) that runs a named JavaScript file — this file contains the code that will run in the worker thread; workers run in another global context that is different from the current window. [source](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 
