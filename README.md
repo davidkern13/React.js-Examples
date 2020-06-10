@@ -49,3 +49,9 @@ There is a possibility that the server first returns irrelevant information and 
 Peterson Observer is great solution for this problem, can be exercised with rxjs or custom js.
 
 [React-rxjs-observable](https://github.com/davidkern13/react-rxjs-observable)
+
+## Implementation custom socket middleware with react hooks & redux
+
+ Web socket custom middleware for get real time data from server.
+
+[React-Hooks-Socket-Middleware](https://github.com/davidkern13/react-hooks-socket-middleware)
