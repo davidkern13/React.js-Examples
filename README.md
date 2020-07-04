@@ -67,3 +67,11 @@ Peterson Observer is great solution for this problem, can be exercised with rxjs
 
 [React-Lazy-Image](https://github.com/davidkern13/React-Lazy-Image)
 
+## JavaScript Features in ES2020
+
+#### New javascript features.
+
+[JavaScript-Features-in-ES2020](https://github.com/davidkern13/JavaScript-Features-in-ES2020)
+
+
+
