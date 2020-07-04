@@ -55,3 +55,10 @@ Peterson Observer is great solution for this problem, can be exercised with rxjs
  Web socket custom middleware for get real time data from server.
 
 [React-Hooks-Socket-Middleware](https://github.com/davidkern13/react-hooks-socket-middleware)
+
+## Use React-Lazy-Image when you have image in your ui
+
+Check React-Lazy-Image example 
+
+[React-Lazy-Image](https://github.com/davidkern13/React-Lazy-Image)
+
