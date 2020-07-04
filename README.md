@@ -63,7 +63,7 @@ Peterson Observer is great solution for this problem, can be exercised with rxjs
 
 ## Use React-Lazy-Image when you have image in your ui
 
-Check React-Lazy-Image example 
+#### Check the codesandbox [example](https://codesandbox.io/s/zen-dijkstra-jh20d?file=/src/App.js), copy the code to your project and follow next steps to get result.
 
 [React-Lazy-Image](https://github.com/davidkern13/React-Lazy-Image)
 
