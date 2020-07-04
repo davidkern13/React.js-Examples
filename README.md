@@ -2,6 +2,8 @@
 <p align="center">
 React examples from real world programing, solve bugs, best practice & cool stuf :)
 </p>
+
+<hr/>
  
 
 ## Memo
