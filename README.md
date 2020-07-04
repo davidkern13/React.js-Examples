@@ -1,10 +1,8 @@
 ![](https://i.ibb.co/pz9HQwN/Cables.png)
-<h3 align="center">
+<p align="center">
 React examples from real world programing, solve bugs, best practice & cool stuf :)
- </h3>
+</p>
  
- <br />
-
 
 ## Memo
 
