@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/pz9HQwN/Cables.png)
-<h1 align="center">
+<h3 align="center" color="#f77">
 React examples from real world programing, solve bugs, best practice & cool stuf :)
- </h1>
+ </h3>
 
 
 ## Memo
