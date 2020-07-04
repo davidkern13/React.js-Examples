@@ -1,6 +1,7 @@
 ![](https://i.ibb.co/pz9HQwN/Cables.png)
-
-#### React examples from real world programing, solve bugs, best practice & cool stuf :)
+<p align="center">
+React examples from real world programing, solve bugs, best practice & cool stuf :)
+ </p>
 
 
 ## Memo
