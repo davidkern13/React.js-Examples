@@ -85,9 +85,13 @@ Peterson Observer is great solution for this problem, can be exercised with rxjs
 #### useInputValue custom hook to help us to make the component more cleaner, readable and efficiently.
 
 [React hook useInputValue example](https://codesandbox.io/s/useinputvalue-43k9d?file=/src/App.js:0-1071)
-<br />
 
-[useInputValue gist code](https://gist.github.com/davidkern13/164333d9c516020fb1dcc168c7e9c378)
+## ⚡ React hook useAuth example
+
+#### useAuth custom hook to help us to make the component more cleaner, readable and efficiently.
+
+[React hook useInputValue example](https://codesandbox.io/s/react-hooks-useauth-duc9w)
+
 
 
 
