@@ -74,4 +74,12 @@ Peterson Observer is great solution for this problem, can be exercised with rxjs
 [JavaScript-Features-in-ES2020](https://github.com/davidkern13/JavaScript-Features-in-ES2020)
 
 
+## React hook useReducer example
+
+#### check the sample.
+
+[React hook useReducer example](https://codesandbox.io/s/react-hook-usereducer-example-8952b)
+
+
+
 
